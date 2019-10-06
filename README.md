@@ -1,6 +1,6 @@
 # Classic Arcade Game Clone Project
 
-This project is the third project of the Udacity Front-End Nanodegree and it is a game loop engine; using 
+This project is the third project of the Udacity Front-End Web Developer Nanodegree and it is a game loop engine; using 
 a number of entities to the game including the player, enemies to recreate the classic arcade game Frogger.
 and the game objects (player and vehicles and gems) are implemented using JavaScript object-oriented programming features.
 
